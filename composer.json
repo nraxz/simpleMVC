@@ -1,0 +1,16 @@
+{
+    "require": {
+        "phpunit/phpunit": "^4.8"
+
+    },
+    "autoload":{
+        "classmap":[
+            "controller",
+            "model",
+            "views"
+
+        ]
+        }
+
+
+}
